@@ -1,0 +1,9 @@
+[submodule ".dependencies/qoi-fu"]
+	path = .dependencies/qoi-fu
+	url = https://github.com/pfusik/qoi-fu
+[submodule ".dependencies/qoi"]
+	path = .dependencies/qoi
+	url = https://github.com/phoboslab/qoi
+[submodule ".dependencies/stb"]
+	path = .dependencies/stb
+	url = https://github.com/nothings/stb
